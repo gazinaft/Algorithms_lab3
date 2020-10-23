@@ -1,0 +1,36 @@
+сrossover1 mutate1 localImprove1
+49316856252 nanoseconds 
+20927
+сrossover2 mutate1 localImprove1
+50850844499 nanoseconds 
+21229
+сrossover3 mutate1 localImprove1
+65416445034 nanoseconds 
+14067
+сrossover1 mutate2 localImprove1
+55466446639 nanoseconds 
+19343
+сrossover2 mutate2 localImprove1
+50802281262 nanoseconds 
+20667
+сrossover3 mutate2 localImprove1
+57480110136 nanoseconds 
+15917
+сrossover1 mutate1 localImprove2
+62560485653 nanoseconds 
+15873
+сrossover2 mutate1 localImprove2
+49544662820 nanoseconds 
+21244
+сrossover3 mutate1 localImprove2
+63308555165 nanoseconds 
+12819
+сrossover1 mutate2 localImprove2
+55563969386 nanoseconds 
+18519
+сrossover2 mutate2 localImprove2
+49607310723 nanoseconds 
+20635
+сrossover3 mutate2 localImprove2
+66613646382 nanoseconds 
+12388

@@ -1,0 +1,9 @@
+сrossover1 mutate1 localImprove1
+53074762553 nanoseconds 
+18408
+сrossover3 mutate1 localImprove2
+64715004817 nanoseconds 
+11792
+сrossover3 mutate2 localImprove2
+62870614507 nanoseconds 
+13333

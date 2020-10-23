@@ -1,0 +1,12 @@
+сrossover3 mutate2 localImprove2
+67967556321 nanoseconds 
+12182
+сrossover3 mutate2 localImprove2
+66295303951 nanoseconds 
+11992
+15 percent
+64781093902 nanoseconds 
+12179
+adaptive percent
+63302392802 nanoseconds 
+11668
